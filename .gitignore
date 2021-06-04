@@ -1,0 +1,13 @@
+*.iml
+.classpath
+.idea/
+target/
+logs/*
+facade/logs/*
+.sonar/
+.scannerwork/
+testReport/
+/mvnw
+/mvnw.cmd
+.mvn/
+logs/
